@@ -7,8 +7,7 @@ A list of common resources for CTFs
   * [Crypto] (#crypto)
   
 ## QR Code
-*QR Code tools and reference documentation.*
-  * [Thonky QR Code Tutorial] (http://www.thonky.com/qr-code-tutorial/) - An in-depth explanation of the QR format.
+*QR Code tools.*
   * [strong-qr-decoder] (https://github.com/waidotto/strong-qr-decoder) - Command line QR decoder (in japanese)
 
 ## Crypto
